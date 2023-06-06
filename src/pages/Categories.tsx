@@ -1,11 +1,7 @@
-import  {FC} from 'react';
+import { FC } from 'react'
 
 const Categories: FC = () => {
-    return (
-        <div>
+	return <div>Cats</div>
+}
 
-        </div>
-    );
-};
-
-export default Categories;
+export default Categories
