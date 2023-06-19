@@ -26,7 +26,7 @@ const Header: FC = () => {
 			</Link>
 			{isAuth && (
 				<nav className={'ml-auto mr-10'}>
-					<ul className=" flex items-center gap-5">
+					<ul className="flex items-center gap-5">
 						<li>
 							<NavLink
 								to={'/'}
